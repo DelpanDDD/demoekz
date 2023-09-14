@@ -26,8 +26,3 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 5. Разработать ER-диаграмму.
 6. 
 
-![image](https://github.com/DelpanDDD/DemoEkzamen/assets/98009151/708ed022-847a-4e5e-9e07-34ac1e55b084)
-
-![image](https://github.com/DelpanDDD/DemoEkzamen/assets/98009151/9d97169c-3e85-4687-948d-f0de66d9e423)
-
-![image](https://github.com/DelpanDDD/DemoEkzamen/assets/98009151/50f63a30-e7e6-4a87-8dae-d18b4f813346)
