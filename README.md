@@ -24,5 +24,9 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 3. Определить функциональные требования к системе.
 4. Разработать диаграмму вариантов использования системы.
 5. Разработать ER-диаграмму.
-6. 
 
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/49dc1a82-efb9-49b5-8b3a-7c46938a8cb6)
+
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/86cd34d8-f29e-4a7e-9caa-177182a77531)
+
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/f66aa2b6-ba7b-4e12-be2d-af2657ba5efd)
