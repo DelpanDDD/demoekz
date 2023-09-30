@@ -28,6 +28,7 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 
 Visual Studio
 ---
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/34971a40-5b33-46c2-b689-9abacaa4a4d4)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/18b944e8-ea03-4a06-a9db-522e0724c830)
 
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/1136c96b-c615-4984-bc9a-4d9b2a538aa5)
 ---
