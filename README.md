@@ -1,32 +1,33 @@
-# exam
+---
+
+1. Диаграмма</br>
+Изучить описание предметной области: [Турагенство](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx); [Глазки-Save](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/2%20задание%20Глазки-Save/Общие%20ресурсы/Введение%20ПО_G.pdf); [Свияжские холмы](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Общие%20ресурсы/Описание%20предметной%20области.pdf); [ООО "Руль"](https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar)</br>
+Определить функциональные требования к системе.</br>
+Разработать диаграмму вариантов использования системы.</br>
+Разработать ER-диаграмму.</br>
+
+
 
 https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit
 
-![image](https://github.com/Banstra/exam/assets/97594123/0c25a118-d8a5-440d-882d-29fc6cc2a84a)
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3d8e963d-7391-40b3-9227-33be4e711ac0)
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/2dfb6d3b-c799-4cd5-86e8-00bd8ed2532a)
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/1395d8d1-8f2b-46c9-8aa0-fd0c88e92430)
 
-![image](https://github.com/Banstra/exam/assets/97594123/40f96815-8283-499c-a9b8-d1d924e4d137)
+10 баллов - 3</br>
+20 баллов - 4</br>
+30 баллов - 5</br>
 
-![image](https://github.com/Banstra/exam/assets/97594123/4ca9190f-7089-4310-8d54-7969bbf73ac3)
+---
 
-10 баллов - 3
+Описание ПО на флешке
+---
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/356134a1-12c1-40dc-abb5-90d1a7753791)
 
-20 баллов - 4
+---
 
-30 баллов - 5
+Visual Studio
+---
+![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/34971a40-5b33-46c2-b689-9abacaa4a4d4)
 
-1. Изучить описание предметной области:
-   https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/0%20WorldSkills/1_Use%20Case/Описание%20ПО.docx (турагентсво);
-   2 задание Глазки-Save/Общие ресурсы/Введение ПО_G.pdf (глазки save);
-   https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/7%20задание%202022/09_1.2-2022_8/Вариант%208/Свияжские%20холмы/Описание%20предметной%20области.docx (Свияжские холмы);
-  https://github.com/Julia-Zhirnova/Demoekzamen/raw/main/9%20задание%202023/КОД%201.1%202023-2025%20ВАРИАНТ%203.rar (ООО Руль);
-
-   
-3. Определить функциональные требования к системе.
-4. Разработать диаграмму вариантов использования системы.
-5. Разработать ER-диаграмму.
-
-![image](https://github.com/DelpanDDD/demoekz/assets/98009151/49dc1a82-efb9-49b5-8b3a-7c46938a8cb6)
-
-![image](https://github.com/DelpanDDD/demoekz/assets/98009151/86cd34d8-f29e-4a7e-9caa-177182a77531)
-
-![image](https://github.com/DelpanDDD/demoekz/assets/98009151/f66aa2b6-ba7b-4e12-be2d-af2657ba5efd)
+---
