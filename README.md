@@ -32,3 +32,5 @@ Visual Studio
 
 ![image](https://github.com/DelpanDDD/demoekz/assets/98009151/1136c96b-c615-4984-bc9a-4d9b2a538aa5)
 ---
+
+https://docs.google.com/presentation/d/1GIahNvhGlyt2a4rWOGOtcZUiN8oMpixT4HqHhxA6mCo/edit?usp=sharing
