@@ -7,24 +7,15 @@
 Турагенство
 ---
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3bb8c7e3-e8f2-40e0-83fc-880e64a48d5a)</br>
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/966a72e0-8c95-4e9d-9fa5-59358595cad1)</br>
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/a3f97aed-5498-44cd-b03f-e12f225f52df)</br>
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/8f445461-f07f-4998-a173-e217b1f59b29)</br>
-
-
-
 
 ---
 Руль
 ---
 
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/0eedb7c1-2768-4825-a250-22d2af8fae2a)</br>
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/b9ee5ec8-d376-44f9-ba6c-217f8a6c42a8)</br>
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/e837e4ac-cb1e-4f1c-b6df-c7ccae6405dc)
-![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/68727651-e866-45d0-b359-c96bb5445395)</br>
-
-
-
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/d6bf6127-ab7a-4c70-9a01-8656288b55dc)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/78c4dead-7ef1-4fa6-b15c-88fd2e9f76f8)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/c43e1369-dcb1-4e05-813d-c0325c188775)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/883831d1-9370-4c5a-b9ab-6ae8f5dde418)
 
 ---
 Свияжские хомлы
