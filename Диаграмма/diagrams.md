@@ -11,6 +11,9 @@
 Турагенство
 ---
 ![image](https://github.com/Kulikov205/DemoEkzamen/assets/97594290/3bb8c7e3-e8f2-40e0-83fc-880e64a48d5a)</br>
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/87bee784-ad75-46f4-ae96-9e5b60cb2236)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/cfc944f5-adb7-49c6-9712-71eacbf5812a)
+![image](https://github.com/DelpanDDD/demoekz/assets/98009151/5963cdd2-b7aa-45dd-8628-f63a22ba0a8c)
 
 ---
 Руль
