@@ -1,6 +1,10 @@
 ---
 Глазки-save
 ---
+![271783614-295f7a0c-b8c3-418d-a16a-4392cbc66228](https://github.com/DelpanDDD/demoekz/assets/98009151/d5c2f0aa-1962-4c62-8820-3069df295d88)
+![271784219-05723a16-7d51-49e3-bcf5-6b86733fb64a](https://github.com/DelpanDDD/demoekz/assets/98009151/1e415451-c103-4b38-a671-6eb261e92aa1)
+![271784359-922f2059-3894-4f35-90db-a3416cd277b3](https://github.com/DelpanDDD/demoekz/assets/98009151/3e84091d-c06e-452a-acab-991f94983563)
+![271784591-a572837c-e7f9-4ea0-8293-3e75de95721a](https://github.com/DelpanDDD/demoekz/assets/98009151/70e13348-0088-46cf-a2e6-e1fc4748c183)
 
 
 ---
